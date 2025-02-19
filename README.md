@@ -8,10 +8,10 @@ I managed user access through different methods, including the Azure portal, Pow
 * Exercise 3: Create the Service Desk group with the user Dylan Williams as its member (Azure CLI).
 * Exercise 4: Assign the Virtual Machine Contributor role to the Service Desk group.
 ## Lab scenario
-You have been asked to create a proof of concept showing how Azure users and groups are created. Also, how role-based access control is used to assign roles to groups. Specifically, you need to:
-* Create a Senior Admins group containing the user account of Joseph Price as its member
-* Create a Junior Admins group containing the user account of Isabel Garcia as its member.
-* Create a Service Desk group containing the user account of Dylan Williams as its member.
-* Assign the Virtual Machine Contributor role to the Service Desk group.
+I showed a proof of concept on how Azure users and groups are created. Also, how role-based access control is used to assign roles to groups. 
+* Created a Senior Admins group containing the user account of Joseph Price as its member
+* Created a Junior Admins group containing the user account of Isabel Garcia as its member.
+* Created a Service Desk group containing the user account of Dylan Williams as its member.
+* Assigned the Virtual Machine Contributor role to the Service Desk group.
 
-For all the resources in this lab, we are using the East US region. Verify with your instructor this is the region to use for class.
+For all the resources in this lab, I used the East US region. 
