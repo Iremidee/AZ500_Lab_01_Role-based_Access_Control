@@ -1,7 +1,7 @@
 # AZ500_Lab_01_Role-based_Access_Control
-This project demonstrate the process of implementing Role-Based Access Control (RBAC) in Azure by creating Azure users and groups, as well as assigning roles to groups to manage access permissions effectively. 
+## Role-Based Access Control Architecture Diagram
 
-I managed user access through different methods, including the Azure portal, PowerShell, and Azure CLI.
+
 ## Lab objectives
 * Exercise 1: Create the Senior Admins group with the user account Joseph Price as its member (the Azure portal).
 * Exercise 2: Create the Junior Admins group with the user account Isabel Garcia as its member (PowerShell).
@@ -15,6 +15,10 @@ I showed a proof of concept on how Azure users and groups are created. Also, how
 * Assigned the Virtual Machine Contributor role to the Service Desk group.
 
 For all the resources in this lab, I used the East US region. 
+## Summary
+This project demonstrate the process of implementing Role-Based Access Control (RBAC) in Azure by creating Azure users and groups, as well as assigning roles to groups to manage access permissions effectively. 
+
+I managed user access through different methods, including the Azure portal, PowerShell, and Azure CLI.
 ## Documentation
 * I used the official Azure documentation
 * Reference: https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/Instructions/Labs/LAB_01_RBAC.html
