@@ -15,3 +15,7 @@ I showed a proof of concept on how Azure users and groups are created. Also, how
 * Assigned the Virtual Machine Contributor role to the Service Desk group.
 
 For all the resources in this lab, I used the East US region. 
+## Documentation
+* I used the official Azure documentation
+* Reference: https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/Instructions/Labs/LAB_01_RBAC.html
+
